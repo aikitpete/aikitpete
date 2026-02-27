@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Peter
 
-Senior software engineer / product-minded builder working across AI, data, and mobile.
+Software engineer / product-minded builder working across AI, data, and mobile.
 - Turning messy data into business signals
 - Background in analytics platforms, APIs, dashboards, and mobile apps
 
