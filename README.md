@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Peter
+## Hi, I’m Peter
 
 I work across the full chain - from the first app event firing on a 
 mobile device to the pipeline that processes it to the dashboard 
