@@ -9,12 +9,12 @@ engineering: instrumenting apps correctly, designing event schemas
 that don't need to be rewritten six months later, and building the 
 pipelines and observability layers behind them.
 
-Recent focus areas:
-- Mobile analytics instrumentation (React Native → BigQuery)
+What I work on:
+- Mobile analytics instrumentation (React Native to BigQuery)
 - IoT / telemetry pipelines and observability (OTel, Grafana, SLOs)
 - Offline-first mobile architecture for field operations
 - On-device and edge ML integration
 
-🧠 Python · React / React Native / mobile · BigQuery / dbt · GCP / AWS
+Stack: Python · React / React Native / mobile · BigQuery / dbt · GCP / AWS
 
-⚙️ Data engineering · AI integration · Observability · Product thinking
+Expertise: Data engineering · AI integration · Observability · Product thinking
