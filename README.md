@@ -14,7 +14,7 @@ Most of my work sits where data engineering, AI and mobile meet. I design event 
 
 ## Stack
  
-`Python` `BigQuery` `dbt` `GCP` `AWS` `OpenTelemetry` `Grafana` `React Native` `React` `Mobile`
+`Python` `LangGraph` `BigQuery` `dbt` `GCP` `AWS` `OpenTelemetry` `Grafana` `React Native`
 
 ## Expertise
 
