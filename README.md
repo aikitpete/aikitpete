@@ -1,6 +1,6 @@
 ## Hi, I’m Peter
 
-**Mobile and data engineer.** I build the full data path behind mobile products: event tracking in the app, the pipeline that processes it, and the dashboards people use to make decisions.
+**Data and AI engineer.** I build the full data path behind mobile products: event tracking in the app, the pipeline that processes it, and the dashboards people use to make decisions.
 
 Most of my work sits between mobile engineering and data engineering. I instrument apps properly, design event schemas that won't need a rewrite in six months, and build the pipelines and monitoring behind them.
  
