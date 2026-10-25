@@ -22,6 +22,11 @@ Data engineering · AI integration · Observability · Product thinking
 
 ## Work with me
 
-I take on freelance data and AI projects through **AIKIMBO**, for teams in DACH, APAC and beyond:
+I take on freelance data and AI projects through **AIKIMBO**, for teams in DACH, APAC and beyond: LLM features, data pipelines, observability.
 
-**[www.petegerhat.com](https://www.petegerhat.com)**
+## Let's connect
+
+<a href="https://www.petegerhat.com"><img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://www.linkedin.com/in/aikitpete/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/AIKitPete"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.xing.com/profile/Peter_Gerhat/"><img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" alt="Xing"></a>
