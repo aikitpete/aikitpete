@@ -19,3 +19,9 @@ Most of my work sits where data engineering, AI and mobile meet. I design event 
 ## Expertise
 
 Data engineering · AI integration · Observability · Product thinking
+
+## Work with me
+
+I take on freelance data and AI projects through **AIKIMBO**, for teams in DACH, APAC and beyond: LLM features, data pipelines, observability.
+
+**[www.petegerhat.com](https://www.petegerhat.com)**
